@@ -1,4 +1,4 @@
-# Dev_PenduramCtrlSim
+# Dev_PendulamCtrlSim
 
 車輪型倒立振子の制御シミュレーション
 
